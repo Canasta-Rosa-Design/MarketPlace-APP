@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "oval",
@@ -41,8 +41,8 @@
       "id": "4C86BCBA-B3E6-4CC8-974B-BD0B12A06701"
     },
     {
-      "class": "rectangle",
-      "id": "BFE142C5-0D49-4C6F-8C43-1947B384BDEB"
+      "class": "group",
+      "id": "1C97172A-406D-4189-A5F3-3684F7B8E5E0"
     }
   ],
   "name": "CRMenuButton/profile",

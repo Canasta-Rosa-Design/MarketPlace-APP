@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 155,
+  "changeIdentifier": 160,
   "clippingMaskMode": 0,
   "do_objectID": "4B3D13F3-D7DF-410A-BB26-1DD84D6C3E08",
   "exportOptions": {
@@ -50,11 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "8658CE5C-2A81-4EA5-A050-C5C0D948FC26"
+    },
+    {
+      "class": "group",
+      "id": "066F3108-9F67-4B0D-B18F-68E3AE159848"
     }
   ],
   "name": "CRMenuButton/profile/active",
