@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Sarabun-SemiBold",
-              "size": 18
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -49,11 +49,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 81,
-    "width": 145,
-    "x": 0,
+    "width": 125,
+    "x": 10,
     "y": 0
   },
-  "glyphBounds": "{{36, 6}, {73, 18}}",
+  "glyphBounds": "{{30, 5}, {65, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "EE7CF48B-D67B-4468-9E1D-5B22E4D91AE0",
+  "sharedStyleID": "CED24AC0-DF05-414C-BFA5-FD7947ED8B6B",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -127,7 +127,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Sarabun-SemiBold",
-            "size": 18
+            "size": 16
           }
         },
         "paragraphStyle": {

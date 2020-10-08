@@ -9,35 +9,31 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3372549019607843,
-            "green": 0.4705882352941176,
-            "red": 0.1294117647058823
+            "blue": 0.2431372549019608,
+            "green": 0.2156862745098039,
+            "red": 0.2156862745098039
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Sarabun-Regular",
-              "size": 11
+              "name": "Sarabun-SemiBold",
+              "size": 13
             }
           },
-          "kerning": -0.7,
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 1
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
+            "_class": "paragraphStyle"
+          }
         },
-        "length": 4,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "-50%"
+    "string": "KÜHI NATURAL"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "599369DD-81B6-4DA3-8AD9-88A897FD029E",
+  "do_objectID": "CE59D88B-E723-4831-94B3-B14ACB383070",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 24,
-    "x": 135.1547346519537,
-    "y": 3
+    "height": 17,
+    "width": 202.9942550908455,
+    "x": 53.32485562374171,
+    "y": 1
   },
-  "glyphBounds": "{{1, 4}, {24, 9}}",
+  "glyphBounds": "{{0, 2}, {89, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,12 +61,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "-50%",
+  "name": "KÜHI NATURAL",
   "nameIsFixed": false,
-  "resizingConstraint": 45,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "9D6B4248-E8E5-4CBA-BA5E-3A5A2085128B",
+  "sharedStyleID": "9A5A41A6-EFA9-4BA2-8224-3AAADA14C84C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,7 +75,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 12.59999990463257,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -89,7 +85,7 @@
       ],
       "isEnabled": true,
       "lineCapStyle": 0,
-      "lineJoinStyle": 0
+      "lineJoinStyle": -9223372036854776000
     },
     "borders": [
     ],
@@ -106,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "429B6747-05C8-4FFC-93CA-FB87FAC42108",
+    "do_objectID": "8D71E804-5C69-4E48-8C90-A19498C93C32",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,28 +118,29 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3372549019607843,
-          "green": 0.4705882352941176,
-          "red": 0.1294117647058823
+          "blue": 0.2431372549019608,
+          "green": 0.2156862745098039,
+          "red": 0.2156862745098039
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Sarabun-Regular",
-            "size": 11
+            "name": "Sarabun-SemiBold",
+            "size": 13
           }
         },
-        "kerning": -0.7,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 1
-        },
-        "strikethroughStyle": 0,
-        "underlineStyle": 0
+          "_class": "paragraphStyle"
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invisionlabs.data": {
+      "json-plugin-data": "{\"name\":\"https:\\/\\/canastarosa.com\\/api\\/v1\\/market\\/stores\\/\",\"paths\":{\"selection\":[\"results\"],\"repeat\":[\"name\"]},\"path\":\"69CF15EA-19F3-49B7-955F-2D48DCB8A842.json\"}"
+    }
+  }
 }

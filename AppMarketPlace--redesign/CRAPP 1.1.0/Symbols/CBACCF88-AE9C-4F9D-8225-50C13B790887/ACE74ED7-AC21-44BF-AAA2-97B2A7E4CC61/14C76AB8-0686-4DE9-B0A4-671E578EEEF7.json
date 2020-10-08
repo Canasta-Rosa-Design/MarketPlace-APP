@@ -9,32 +9,31 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2431372549019608,
-            "green": 0.2156862745098039,
-            "red": 0.2156862745098039
+            "blue": 0.3254901960784314,
+            "green": 0.2862745098039216,
+            "red": 0.2862745098039216
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Sarabun-Regular",
-              "size": 13
+              "name": "Sarabun-SemiBold",
+              "size": 16
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
+            "_class": "paragraphStyle"
           }
         },
-        "length": 6,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Comida"
+    "string": "$420.00MXN"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1C83A777-431B-4724-A5F8-58ECF390E18C",
+  "do_objectID": "14C76AB8-0686-4DE9-B0A4-671E578EEEF7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,12 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
-    "width": 48,
-    "x": 0.7089502200388722,
-    "y": 0.131744030901018
+    "height": 21,
+    "width": 170,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{3, 4}, {42, 11}}",
+  "glyphBounds": "{{0, 4}, {91, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,12 +61,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Comida",
+  "name": "$420.00MXN",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "9A5A41A6-EFA9-4BA2-8224-3AAADA14C84C",
+  "sharedStyleID": "CED24AC0-DF05-414C-BFA5-FD7947ED8B6B",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +75,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 12.59999990463257,
       "saturation": 1,
       "type": 0
     },
@@ -103,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B6E6042F-82CF-43B6-A8F1-67AF3C1B709E",
+    "do_objectID": "4EA620BD-F66C-4E04-8D9D-48CBBE23A8ED",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -119,25 +118,24 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2431372549019608,
-          "green": 0.2156862745098039,
-          "red": 0.2156862745098039
+          "blue": 0.3254901960784314,
+          "green": 0.2862745098039216,
+          "red": 0.2862745098039216
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Sarabun-Regular",
-            "size": 13
+            "name": "Sarabun-SemiBold",
+            "size": 16
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2
+          "_class": "paragraphStyle"
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }

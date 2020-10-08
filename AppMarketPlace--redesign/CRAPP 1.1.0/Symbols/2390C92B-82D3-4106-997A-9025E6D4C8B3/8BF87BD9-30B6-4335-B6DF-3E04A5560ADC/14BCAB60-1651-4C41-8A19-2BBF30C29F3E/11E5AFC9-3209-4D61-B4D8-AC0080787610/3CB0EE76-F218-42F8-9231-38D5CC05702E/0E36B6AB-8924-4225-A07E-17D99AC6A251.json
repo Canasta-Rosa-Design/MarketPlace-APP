@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
+    "height": 46,
     "width": 170,
     "x": 0,
-    "y": 85
+    "y": 44
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -32,7 +32,7 @@
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 43,
+  "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

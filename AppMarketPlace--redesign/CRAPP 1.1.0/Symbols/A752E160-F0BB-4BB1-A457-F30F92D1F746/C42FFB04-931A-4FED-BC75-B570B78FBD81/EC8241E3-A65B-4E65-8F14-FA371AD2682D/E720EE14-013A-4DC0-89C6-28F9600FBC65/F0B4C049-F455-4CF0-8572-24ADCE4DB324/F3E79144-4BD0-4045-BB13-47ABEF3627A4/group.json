@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5840B01A-B775-4EFD-B5AE-C8B062DD5CB1",
+  "do_objectID": "F3E79144-4BD0-4045-BB13-47ABEF3627A4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,56 +15,45 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 316,
-    "width": 137,
-    "x": 10,
-    "y": 49
+    "height": 135,
+    "width": 135,
+    "x": 0,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "CRProductCard/full",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "0E36B6AB-8924-4225-A07E-17D99AC6A251_symbolID",
-      "value": "A0449878-11CD-4787-A602-2110D1F80CA2"
+      "class": "rectangle",
+      "id": "9CE82230-C22E-4B97-92B0-DC46A8FF5851"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "0E36B6AB-8924-4225-A07E-17D99AC6A251/06D59C6C-ACA1-4E15-85C4-DCCCE9CEEDD2_stringValue",
-      "value": " "
+      "class": "symbolInstance",
+      "id": "9238BE33-21D3-4CFD-BE30-D0877C21528D"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "0E36B6AB-8924-4225-A07E-17D99AC6A251/D6B49422-C793-4ED6-BB0F-D78CF977EFE1_textStyle",
-      "value": "CED24AC0-DF05-414C-BFA5-FD7947ED8B6B"
+      "class": "symbolInstance",
+      "id": "797B21D1-B466-4BF2-8C17-F37BA169F350"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "92214BB2-4892-4257-BE77-6FF6145FF9A2_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/3855ad1318a02ed4d77022bc7876ba0fc7063245.png",
-        "_ref_class": "MSImageData"
-      }
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "0B07F3E1-F4E2-4755-8216-5AF0441F1B79_stringValue",
-      "value": "Panqué de limón"
+      "class": "symbolInstance",
+      "id": "9258D6FA-50AB-4F86-BAFB-4316CE5B3794"
     }
   ],
+  "name": "thumbnail",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -100,7 +89,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F7695506-55C4-4229-814F-827CC19BF318",
+    "do_objectID": "65124294-4CA0-4046-BCFC-AFB3828C904D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -111,7 +100,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "B65B6721-D00C-429C-9010-ABE28372D16A",
-  "verticalSpacing": 0
+  }
 }

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4627450980392157,
-            "green": 0.2235294117647059,
-            "red": 0.9019607843137255
+            "blue": 0.3254901960784314,
+            "green": 0.2862745098039216,
+            "red": 0.2862745098039216
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -22,14 +22,14 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           }
         },
-        "length": 7,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "Postres"
+    "string": "Cuidado de la piel"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,11 +49,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 17,
-    "width": 54,
-    "x": 61.70895022003887,
+    "width": 128,
+    "x": 12,
     "y": 0.131744030901018
   },
-  "glyphBounds": "{{7, 4}, {41, 11}}",
+  "glyphBounds": "{{0, 4}, {101, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -61,8 +61,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Postres",
+  "lineSpacingBehaviour": 3,
+  "name": "Cuidado de la piel",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -119,9 +119,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4627450980392157,
-          "green": 0.2235294117647059,
-          "red": 0.9019607843137255
+          "blue": 0.3254901960784314,
+          "green": 0.2862745098039216,
+          "red": 0.2862745098039216
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -132,7 +132,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         }
       },
       "verticalAlignment": 0

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 320,
+  "changeIdentifier": 773,
   "clippingMaskMode": 0,
   "do_objectID": "54752BEB-1DAD-43BF-BC0B-125E5CBD0049",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
+    "height": 46,
     "width": 170,
     "x": 2074,
     "y": -31
@@ -57,8 +57,8 @@
       "id": "FE726E0A-76EF-4585-BD48-038A53620975"
     }
   ],
-  "name": "price/full",
-  "nameIsFixed": false,
+  "name": "price/discount",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -93,7 +93,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

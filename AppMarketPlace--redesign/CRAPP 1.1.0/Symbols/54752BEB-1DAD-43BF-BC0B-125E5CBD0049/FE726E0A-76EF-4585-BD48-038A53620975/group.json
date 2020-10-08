@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
+    "height": 40,
     "width": 170,
     "x": 0,
     "y": 0
@@ -41,8 +41,8 @@
       "id": "8F4FC9A7-16C9-43C4-9CBB-7CB123C63838"
     },
     {
-      "class": "text",
-      "id": "599369DD-81B6-4DA3-8AD9-88A897FD029E"
+      "class": "group",
+      "id": "63CEFB36-2CBA-4F55-B1BA-2E6A486DA6B6"
     }
   ],
   "name": "price",

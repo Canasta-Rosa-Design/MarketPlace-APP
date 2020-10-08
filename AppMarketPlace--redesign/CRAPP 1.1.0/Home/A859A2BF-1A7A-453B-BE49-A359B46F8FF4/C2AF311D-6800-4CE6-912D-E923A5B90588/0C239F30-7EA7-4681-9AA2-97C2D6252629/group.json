@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "49377C40-1FB8-4D9A-BEA3-1FF9BD936792",
+  "do_objectID": "0C239F30-7EA7-4681-9AA2-97C2D6252629",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 45,
-    "width": 154,
-    "x": 0,
-    "y": 0
+    "height": 18,
+    "width": 136,
+    "x": 1,
+    "y": 56
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,17 +33,17 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "936DC1C3-DF51-4123-A719-371625D1E71E"
+      "class": "text",
+      "id": "8A8A9FC8-988B-487B-A315-805EBEE4C669"
     },
     {
-      "class": "symbolInstance",
-      "id": "D9CFB6FF-52B7-4819-B260-C206CD3E65ED"
+      "class": "group",
+      "id": "EEB49516-5FEE-45FB-875F-6EA8F0B77E56"
     }
   ],
-  "name": "CRBadges",
+  "name": "CRBreadCrumbs Copy",
   "nameIsFixed": true,
-  "resizingConstraint": 41,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -81,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "006FB501-FA4C-4488-B8E4-A49D08913151",
+    "do_objectID": "C0744C88-E482-40D5-8819-74AE7F1EFDBE",
     "endMarkerType": 0,
     "fills": [
     ],

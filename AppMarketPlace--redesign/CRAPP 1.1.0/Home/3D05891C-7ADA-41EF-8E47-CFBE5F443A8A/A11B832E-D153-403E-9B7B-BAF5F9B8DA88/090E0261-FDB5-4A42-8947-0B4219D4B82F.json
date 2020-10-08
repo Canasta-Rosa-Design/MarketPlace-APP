@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D9CFB6FF-52B7-4819-B260-C206CD3E65ED",
+  "do_objectID": "090E0261-FDB5-4A42-8947-0B4219D4B82F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 154,
-    "x": 0,
-    "y": 0
+    "height": 298,
+    "width": 135,
+    "x": 10,
+    "y": 49
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "CRbadge / shipping",
+  "name": "CRProductCard/xSmall",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E2522A64-80CF-4F84-8367-41A5F83A5D16",
+    "do_objectID": "C804179B-DF90-4725-A8D0-D10D1978FF86",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "84102C38-9489-463C-A6AA-644D9D4C61AB",
+  "symbolID": "7ABAAFFE-A9A6-47A7-AA85-BE7C30228901",
   "verticalSpacing": 0
 }

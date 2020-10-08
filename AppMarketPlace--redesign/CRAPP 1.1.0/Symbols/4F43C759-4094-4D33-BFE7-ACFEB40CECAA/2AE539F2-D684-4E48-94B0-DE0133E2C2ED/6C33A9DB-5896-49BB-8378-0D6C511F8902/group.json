@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "936DC1C3-DF51-4123-A719-371625D1E71E",
+  "do_objectID": "6C33A9DB-5896-49BB-8378-0D6C511F8902",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 27,
-    "width": 135,
-    "x": 0,
-    "y": 18
+    "height": 40,
+    "width": 257,
+    "x": 8,
+    "y": 116
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "CRBadge / freesShipping",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "text",
+      "id": "CE59D88B-E723-4831-94B3-B14ACB383070"
+    },
+    {
+      "class": "text",
+      "id": "0933AA62-AC1C-4C6F-90A6-0B3EEC53DF1A"
+    },
+    {
+      "class": "rectangle",
+      "id": "965E498E-E2F0-433F-8832-11E3723EFB03"
+    }
   ],
+  "name": "StoreDetail",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -71,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7A7C4871-7B0B-4A27-A69D-29437A37B940",
+    "do_objectID": "49844E2D-DCB6-45AD-BC94-F31F7F7CE6C3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,7 +96,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "06E552A5-C510-4575-8181-C1BBFF044843",
-  "verticalSpacing": 0
+  }
 }

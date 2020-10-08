@@ -9,31 +9,31 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3254901960784314,
-            "green": 0.2862745098039216,
-            "red": 0.2862745098039216
+            "blue": 0.2431372549019608,
+            "green": 0.2156862745098039,
+            "red": 0.2156862745098039
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Sarabun-Regular",
-              "size": 13
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle"
           }
         },
-        "length": 24,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Conservas 100% naturales"
+    "string": "Panqué de limón"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0933AA62-AC1C-4C6F-90A6-0B3EEC53DF1A",
+  "do_objectID": "447F5A87-ED05-4514-A867-095922A64266",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,12 +56,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
-    "width": 172,
-    "x": 61.32485562374177,
-    "y": 30
+    "height": 23,
+    "width": 116.3820224719101,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{0, 4}, {149, 11}}",
+  "glyphBounds": "{{1, 5}, {114, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,12 +70,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Conservas 100% natur",
+  "name": "Product Name",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "9D6B4248-E8E5-4CBA-BA5E-3A5A2085128B",
+  "sharedStyleID": "62A15371-15E9-4A44-A2CC-802A75ABF232",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -84,7 +84,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 12.59999990463257,
       "saturation": 1,
       "type": 0
     },
@@ -111,7 +111,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6A43F3FF-B3F7-40E6-A8AE-0E6D70341D22",
+    "do_objectID": "F7934944-214E-4118-A2B9-DEA4072ADC34",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -127,15 +127,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3254901960784314,
-          "green": 0.2862745098039216,
-          "red": 0.2862745098039216
+          "blue": 0.2431372549019608,
+          "green": 0.2156862745098039,
+          "red": 0.2156862745098039
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Sarabun-Regular",
-            "size": 13
+            "size": 16
           }
         },
         "paragraphStyle": {
@@ -146,10 +146,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
-  "userInfo": {
-    "com.invisionlabs.data": {
-      "json-plugin-data": "{\"name\":\"https:\\/\\/canastarosa.com\\/api\\/v1\\/market\\/stores\\/\",\"paths\":{\"selection\":[\"results\"],\"repeat\":[\"slogan\"]},\"path\":\"69CF15EA-19F3-49B7-955F-2D48DCB8A842.json\"}"
-    }
-  }
+  "textBehaviour": 2
 }

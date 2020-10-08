@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 198,
+  "changeIdentifier": 484,
   "clippingMaskMode": 0,
   "do_objectID": "8083874B-0619-4992-B709-4F8C660D2017",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 45,
+    "height": 16,
     "width": 154,
     "x": 1733,
     "y": -31
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,8 +53,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "49377C40-1FB8-4D9A-BEA3-1FF9BD936792"
+      "class": "symbolInstance",
+      "id": "A9E49ECF-4A63-4EF2-A317-DD7A2BD64121"
     }
   ],
   "name": "CRBadges",
@@ -63,12 +63,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D9CFB6FF-52B7-4819-B260-C206CD3E65ED_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "936DC1C3-DF51-4123-A719-371625D1E71E_symbolID"
+      "overrideName": "A9E49ECF-4A63-4EF2-A317-DD7A2BD64121_symbolID"
     }
   ],
   "presetDictionary": {

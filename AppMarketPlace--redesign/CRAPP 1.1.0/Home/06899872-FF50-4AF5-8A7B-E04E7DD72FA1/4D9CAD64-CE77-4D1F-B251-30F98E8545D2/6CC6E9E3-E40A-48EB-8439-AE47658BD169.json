@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 316,
-    "width": 137,
+    "height": 300,
+    "width": 135,
     "x": 10,
     "y": 49
   },
@@ -33,32 +33,22 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "0E36B6AB-8924-4225-A07E-17D99AC6A251_symbolID",
-      "value": "A0449878-11CD-4787-A602-2110D1F80CA2"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "0E36B6AB-8924-4225-A07E-17D99AC6A251/06D59C6C-ACA1-4E15-85C4-DCCCE9CEEDD2_stringValue",
-      "value": " "
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "0E36B6AB-8924-4225-A07E-17D99AC6A251/D6B49422-C793-4ED6-BB0F-D78CF977EFE1_textStyle",
+      "overrideName": "CF548191-C176-4936-9750-A02600483F71/A24C4301-8DCB-4BE1-896A-D8DB4A727E68_textStyle",
       "value": "CED24AC0-DF05-414C-BFA5-FD7947ED8B6B"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "92214BB2-4892-4257-BE77-6FF6145FF9A2_image",
+      "overrideName": "447F5A87-ED05-4514-A867-095922A64266_stringValue",
+      "value": "Panqué de limón"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9CE82230-C22E-4B97-92B0-DC46A8FF5851_image",
       "value": {
         "_class": "MSJSONFileReference",
         "_ref": "images/3855ad1318a02ed4d77022bc7876ba0fc7063245.png",
         "_ref_class": "MSImageData"
       }
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "0B07F3E1-F4E2-4755-8216-5AF0441F1B79_stringValue",
-      "value": "Panqué de limón"
     }
   ],
   "resizingConstraint": 63,
@@ -112,6 +102,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B65B6721-D00C-429C-9010-ABE28372D16A",
+  "symbolID": "7ABAAFFE-A9A6-47A7-AA85-BE7C30228901",
   "verticalSpacing": 0
 }

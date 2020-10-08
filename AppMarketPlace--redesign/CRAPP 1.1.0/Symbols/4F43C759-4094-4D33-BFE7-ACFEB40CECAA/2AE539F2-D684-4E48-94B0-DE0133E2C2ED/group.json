@@ -37,16 +37,8 @@
       "id": "0AFEF8AA-CE2E-494B-8E3D-E05DEF9FB9C8"
     },
     {
-      "class": "text",
-      "id": "CE59D88B-E723-4831-94B3-B14ACB383070"
-    },
-    {
-      "class": "text",
-      "id": "0933AA62-AC1C-4C6F-90A6-0B3EEC53DF1A"
-    },
-    {
-      "class": "rectangle",
-      "id": "965E498E-E2F0-433F-8832-11E3723EFB03"
+      "class": "group",
+      "id": "6C33A9DB-5896-49BB-8378-0D6C511F8902"
     },
     {
       "class": "symbolInstance",
